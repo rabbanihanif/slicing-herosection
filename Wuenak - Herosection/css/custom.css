@@ -1,0 +1,81 @@
+.btn-primary {
+    background-color: #81B214;
+    border: 0px;
+    border-radius: 10px;
+    padding: 10px 30px 10px 30px;
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.btn-primary:hover {
+    background-color: #719D11;
+    border: 0;
+}
+
+.btn-primary:active {
+    background-color: #719D11;
+    border: 0;
+    border-color:#719D11; 
+}
+
+.btn-primary.focus, .btn-primary:focus {
+    color: #fff;
+    background-color: #719D11; /* new color goes her */
+    border-color: #719D11;
+}
+
+
+.btn-secondary {
+    background: none;
+    color:#81B214;
+    padding: 10px 30px 10px 20px;
+    border: 0;
+    border-radius: 10px;
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.btn-secondary:hover {
+    background: none;
+    color:#81B214;
+} 
+
+.hero-food h1 {
+    font-family: 'Poppins';
+    font-size: 45px;
+    font-weight: 700;
+    color:#002140;
+}
+
+.hero-food p {
+    font-family: 'Poppins';
+    font-size: 18px;
+    font-weight: 300;
+    color:#7C7C7C;
+}
+
+.btn-outline-primary {
+    background-color: #81B214;
+    color: #fff;
+    border: 0px;
+    padding: 10px 30px 10px 35px;
+    border: 0;
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.form-control{
+    font-family: 'Poppins';
+    height: 60px;
+}
+
+.btn-outline-primary:hover{
+    background-color:  #719D11;
+}
+
+.nav-item .nav-link {
+    font-family: 'Poppins';
+}
